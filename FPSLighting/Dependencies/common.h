@@ -1,0 +1,16 @@
+#pragma once
+#include "windows.h"
+#include "stdio.h"
+#include "conio.h"
+#include "tlhelp32.h"
+#include <iostream>
+#include <string>
+#include <cstdlib>
+#include <vector>
+#include <cmath>
+#include <iomanip>
+#include <cstdint>
+#include <fstream>
+#include <random>
+#include <climits>
+#include <cfloat>
