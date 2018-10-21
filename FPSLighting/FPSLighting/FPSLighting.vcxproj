@@ -130,7 +130,7 @@
     <ClInclude Include="main.h" />
   </ItemGroup>
   <ItemGroup>
-    <Text Include="Text.txt" />
+    <Text Include="ReadMeToo!.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
