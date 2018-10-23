@@ -5,11 +5,17 @@
 
 #include "common.h"	// Common Includes
 
-//-  Corsair Cue Includes -\\
+//-  Corsair Cue SDK -\\
 
 #include <CUESDK.h>
 
-// -------------------------
+// ---------------------
+
+//- Questionable Includes -\\
+
+
+
+//---------------------------
 
 
 #endif

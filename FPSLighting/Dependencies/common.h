@@ -14,3 +14,4 @@
 #include <random>
 #include <climits>
 #include <cfloat>
+#include <dos.h>

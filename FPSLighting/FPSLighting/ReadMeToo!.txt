@@ -1,14 +1,24 @@
 TODO: 
 	
 	~ Make sure we have all of the SDKs we need
-	~ Make github organization
 	~ Make a project board instead of this
 	~ Will the CUE sdk do the job or do we need the ICUE sdk?
 
 
-CURRENTLY DOING:
+CURRENTLY DOING / MAYBE DOING:
 
-	~
+	~ Possibly adding glfw just incase we want to make a gui in the future (we could just use a windows form).
+	~ Making tools class to add more functionality so we can eventually freely program without making any more functions.
+
+
+
+
+DONE:
+	
+	~ Make github organization
+	~ Make a project board instead of this
+
+
 
 
 TOOLS:
