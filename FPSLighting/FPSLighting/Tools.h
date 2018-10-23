@@ -7,8 +7,6 @@ class Tools
 public:
 	Tools();
 
-	void pObjIncreaseMemAddress();
-
 	~Tools();
 };
 

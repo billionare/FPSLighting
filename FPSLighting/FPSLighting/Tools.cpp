@@ -6,10 +6,6 @@ Tools::Tools()
 
 }
 
-void Tools::pObjIncreaseMemAddress()
-{
-
-}
 
 
 Tools::~Tools()
