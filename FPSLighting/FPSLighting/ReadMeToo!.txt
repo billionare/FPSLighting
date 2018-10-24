@@ -2,7 +2,6 @@ TODO:
 	
 	~ Make sure we have all of the SDKs we need
 	~ Make a project board instead of this
-	~ Will the CUE sdk do the job or do we need the ICUE sdk?
 
 
 CURRENTLY DOING / MAYBE DOING:

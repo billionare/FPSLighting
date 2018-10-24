@@ -1,5 +1,6 @@
-#ifndef TOOLS_H
-#define TOOLS_H
+#pragma once
+
+#include "common.h"
 
 
 class Tools
@@ -7,7 +8,9 @@ class Tools
 public:
 	Tools();
 
+	
+
 	~Tools();
 };
 
-#endif // !TOOLS_H
+
