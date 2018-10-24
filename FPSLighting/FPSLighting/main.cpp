@@ -7,6 +7,7 @@ int main()
 {
 	Tools tools; // Creating object and calling constructor
 
+	tools.StartingAnimation(); 
 	
 	std::cin.get();
 }

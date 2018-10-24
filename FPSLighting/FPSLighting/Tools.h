@@ -8,7 +8,7 @@ class Tools
 public:
 	Tools();
 
-	
+	void StartingAnimation();
 
 	~Tools();
 };
