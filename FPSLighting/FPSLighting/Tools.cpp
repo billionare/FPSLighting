@@ -6,12 +6,11 @@ Tools::Tools()
 
 }
 
-// Animation that plays at the run of the program (Shorter version of another shitty animation I made)
 
 void Tools::StartingAnimation()
 {
 	std::cout << "Hey, welcome to FPSLighting, the program that "
-			  << "will change your lights when you shoot!" << std::endl;
+		<< "will change your lights when you shoot!" << std::endl;
 
 	Sleep(350);
 	std::cout << ".";
@@ -25,8 +24,13 @@ void Tools::StartingAnimation()
 
 }
 
+void Tools::ErrorBox(const char *ErrorTitle, const char *ErrorMessage, int ErrorType)
+{
+	MessageBoxA(NULL, ErrorMessage, ErrorTitle, ErrorType);
+}
+
 
 Tools::~Tools()
 {
-
+	
 }

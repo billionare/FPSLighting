@@ -4,13 +4,13 @@
 
 #include "common.h"	// Common Includes
 
-//-  Corsair Cue SDK -\\
+//-       SDKs        -\\
 
 #include <CUESDK.h>
 
-// ---------------------
+// ----------------------
 
-//- Questionable Includes -\\
+//-     Other Includes    -\\
 
 
 
