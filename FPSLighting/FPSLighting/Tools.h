@@ -13,10 +13,12 @@ public:
 	void StartingAnimation(); 
 
 	// Just incase someone wants to use this to output an error. Probably useless. 
-	void ErrorBox(const char *ErrorTitle, const char *ErrorMessage, int ErrorType); 
+	void Message(const char *ErrorTitle, const char *ErrorMessage, int ErrorType); 
 
 	// Creates a process (quicker CreateProcess)
 	void CreateProc(const char *CreateProcIn);
+
+
 
 	~Tools();
 };

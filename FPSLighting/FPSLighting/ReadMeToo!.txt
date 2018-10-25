@@ -16,7 +16,7 @@ DONE:
 	
 	~ Made github organization
 	~ Made a project board instead of this
-	~ Made a quick ErrorBox function which is probably useless (just half a second quicker)
+	~ Made a quick Message()function which is probably useless (just half a second quicker)
 	~ Made a CreateProc function, which is cleaner than setting it up in main().
 
 

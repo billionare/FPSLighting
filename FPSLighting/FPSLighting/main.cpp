@@ -10,7 +10,7 @@ int main()
 
 	tools->StartingAnimation(); 
 
-	tools->ErrorBox("OwO you have the big error!", "This is not very cash money", 69);
+	tools->Message("OwO you have the big error!", "This is not very cash money", 6);
 
 	delete tools; // Deletes tools obj once main scope ends
 

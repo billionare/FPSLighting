@@ -24,7 +24,7 @@ void Tools::StartingAnimation()
 
 }
 
-void Tools::ErrorBox(const char *ErrorTitle, const char *ErrorMessage, int ErrorType)
+void Tools::Message(const char *ErrorTitle, const char *ErrorMessage, int ErrorType)
 {
 	MessageBoxA(NULL, ErrorMessage, ErrorTitle, ErrorType);
 }
@@ -75,6 +75,7 @@ void Tools::CreateProc(const char *CreateProcIn)
 	CloseHandle(procinfo.hThread );
 
 }
+
 
 
 Tools::~Tools()
