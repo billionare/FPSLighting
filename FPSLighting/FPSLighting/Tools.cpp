@@ -49,7 +49,7 @@ void Tools::CreateProc(const char *CreateProcIn)
 	BOOL bCreateProcess = false; 
 
 	// Chances are, we will not need to modify the below (all of the NULLs), but if we do, we can just overload :)
-	bCreateProcess = CreateProcess(CreateProcIn, NULL, NULL, NULL, FALSE, 0, NULL, NULL, &startup, &procinfo);
+	bCreateProcess = CreateProcess(CreateProcIn, NULL, NULL, NULL, NULL, NULL, NULL, NULL, &startup, &procinfo);
 
 		
 	if (bCreateProcess == false)
