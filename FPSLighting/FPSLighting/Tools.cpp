@@ -76,7 +76,10 @@ void Tools::CreateProc(const char *CreateProcIn)
 
 }
 
+void Tools::dxTakeScreenshot()
+{
 
+}
 
 Tools::~Tools()
 {

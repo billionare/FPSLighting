@@ -2,6 +2,12 @@
 
 #include "common.h"
 
+#include <d3dx11core.h>
+#include <d3dx11.h>
+#include <d3d11.h>
+#include <d3d.h>
+
+
 
 class Tools
 {
@@ -18,6 +24,8 @@ public:
 	// Creates a process (quicker CreateProcess)
 	void CreateProc(const char *CreateProcIn);
 
+	// Takes a screenshot with DirectX
+	void dxTakeScreenshot();
 
 
 	~Tools();

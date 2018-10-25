@@ -84,7 +84,7 @@
       <Optimization>Disabled</Optimization>
       <SDLCheck>true</SDLCheck>
       <ConformanceMode>true</ConformanceMode>
-      <AdditionalIncludeDirectories>$(SolutionDir)Dependencies\;$(SolutionDir)Dependencies\CUESDK\include;</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>$(SolutionDir)Dependencies\;$(SolutionDir)Dependencies\CUESDK\include;$(SolutionDir)Dependencies\;$(SolutionDir)Dependencies\CUESDK\include;$(SolutionDir)Dependencies\DIRECTX\Include</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
       <AdditionalLibraryDirectories>$(SolutionDir)Dependencies\CUESDK\lib\CUEx64\</AdditionalLibraryDirectories>
@@ -113,7 +113,7 @@
       <IntrinsicFunctions>true</IntrinsicFunctions>
       <SDLCheck>true</SDLCheck>
       <ConformanceMode>true</ConformanceMode>
-      <AdditionalIncludeDirectories>$(SolutionDir)Dependencies\;$(SolutionDir)Dependencies\CUESDK\include;$(SolutionDir)Dependencies\DIRECTX\Include;</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>$(SolutionDir)Dependencies\;$(SolutionDir)Dependencies\CUESDK\include;$(SolutionDir)Dependencies\;$(SolutionDir)Dependencies\CUESDK\include;$(SolutionDir)Dependencies\DIRECTX\Include$(SolutionDir)Dependencies\DIRECTX\Include</AdditionalIncludeDirectories>
       <FavorSizeOrSpeed>Speed</FavorSizeOrSpeed>
     </ClCompile>
     <Link>
